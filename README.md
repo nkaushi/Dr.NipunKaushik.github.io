@@ -1,1 +1,1 @@
-Welcome! Here you’ll find my research on SAR ADCs, CNN security frameworks, and Power Side-Channel Detection Circuits. The page includes published papers as well as ongoing work, giving a full view of how my research has evolved.
+Welcome! Here you’ll find my research on secure SAR ADCs, CNN security frameworks, and Power Side-Channel Detection Circuits. The page includes published papers as well as ongoing work, giving a full view of how my research has evolved.
